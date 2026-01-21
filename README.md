@@ -1,2 +1,2 @@
-# vibra
+# Vibra
 Vibra cell
